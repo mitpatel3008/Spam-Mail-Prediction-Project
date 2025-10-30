@@ -5,7 +5,7 @@ A machine learning web app that classifies emails as spam or ham (genuine) using
 ⸻
 
 ## 🌐 Live Demo
-	•	Try the live app here: https://spammail-classifier.streamlit.app/
+	 https://spammail-classifier.streamlit.app/
 
 ⸻
 
